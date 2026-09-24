@@ -43,9 +43,9 @@ Open the PyCharm Terminal and run:
 
 Run the main Python file:
 
-'python main.py'
+`python main.py`
 
-Or open main.py in PyCharm and click the Run ▶ button.
+Or open `main.py` in PyCharm and click the Run ▶ button.
 
 ## How to Play
 Start the program.
@@ -72,11 +72,11 @@ This project demonstrates how Python can be used to create an interactive applic
 
 The required Python packages are listed in:
 
-requirements.txt
+`requirements.txt`
 
 Install them with:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Future Improvements
 
