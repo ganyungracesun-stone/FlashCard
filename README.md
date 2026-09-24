@@ -16,7 +16,6 @@ Python 3
 gradio
 Project Structure
 <p>FlashcardGame/
-<p>│
 <p>├── main.py
 <p>├── requirements.txt
 <p>├── .gitignore
