@@ -15,12 +15,12 @@ Keeps track of cards that have already been answered
 Python 3
 gradio
 Project Structure
-FlashcardGame/
-│
-├── main.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+<p>FlashcardGame/
+<p>│
+<p>├── main.py
+<p>├── requirements.txt
+<p>├── .gitignore
+<p>└── README.md
 
 Your actual file names may be different depending on how the project is organized.
 
