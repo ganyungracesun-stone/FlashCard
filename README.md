@@ -37,13 +37,13 @@ In PyCharm, create a Python virtual environment for the project.
 
 Open the PyCharm Terminal and run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Running the Game
 
 Run the main Python file:
 
-python main.py
+'python main.py'
 
 Or open main.py in PyCharm and click the Run ▶ button.
 
